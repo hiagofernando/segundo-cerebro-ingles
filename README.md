@@ -8,10 +8,10 @@
 
 ## 📚 1. Fontes Selecionadas e Relação de Confiança
 
-O notebook foi alimentado com 108 arquivos em PDF contendo o material oficial do curso. As principais fontes incluem:
+O notebook foi alimentado com 109 fontes: 108 arquivos em PDF com o material oficial do curso e um resumo próprio. Por direitos autorais, os PDFs oficiais não estão neste repositório; a lista completa está em [`fontes/LISTA-DE-FONTES.md`](fontes/LISTA-DE-FONTES.md). As principais fontes incluem:
 
 - **PDFs Oficiais de Módulos (A1 M1, M2 e M3):** Aulas temáticas cobrindo desde cumprimentos (*Greetings*), verbos regulares, pronomes, *Verb To Be*, até rotinas, membros da família e numerais.
-- **Resumo do Bloco "Assista Antes de Começar":** Documento sintético com a metodologia do curso, regras do CEFR e dicas de estudo ministradas pelos professores Iury Sagaz e Nayra Brito.
+- **Resumo do Bloco "Assista Antes de Começar":** Documento sintético com a metodologia do curso, regras do CEFR e dicas de estudo ministradas pelos professores Iury Sagaz e Nayra Brito. Resumo escrito com palavras próprias: [abrir o PDF](fontes/Resumo-Assista-antes-de-comecar.pdf).
 
 ### Por que confio nessas fontes?
 
