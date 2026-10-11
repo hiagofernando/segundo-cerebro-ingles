@@ -34,3 +34,21 @@ Diretrizes:
 2. Se uma informação não estiver presente nos PDFs, declare claramente que o material não aborda o tema.
 3. Mantenha um tom didático, encorajador e focado na comunicação prática.
 ```
+
+---
+
+## 🖼️ 3. Exemplos de Uso
+
+Perguntas feitas ao notebook (109 fontes) e as respostas, sempre com as citações numeradas das fontes.
+
+**Conversa sobre a área de atuação (telecom):** o assistente ensina a responder *"What do you do?"* e o uso do verbo *work* com preposições (*as*, *in*, *for*, *at*).
+
+![Conversa sobre trabalhar com telecom no Canadá](imagens/01-conversa-telecom.png)
+
+**Plano de estudo para quem começa do zero:** a partir do pedido de sair do nível iniciante e chegar a um inglês mediano, o assistente monta um plano de ação com adaptação gradual, treino de fala e escuta e estrutura de frases.
+
+![Plano de ação para quem não tem familiaridade com o inglês](imagens/02-plano-de-acao.png)
+
+**Forma falada (*Natural Speech*):** contrações e junção de sons na fala, como *I'm an engineer* e *work in* soando "wur-kin".
+
+![Forma falada e conexões de som](imagens/03-forma-falada.png)
