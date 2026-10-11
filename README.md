@@ -2,7 +2,7 @@
 
 > **Tema e Objetivo:** Este repositório documenta a criação do meu Segundo Cérebro focado em centralizar, estruturar e consultar o material do curso *Inglês Impressionador*, permitindo revisar gramática, vocabulário e pronúncia de forma ágil e fundamentada.
 
-🔗 **Notebook:** [Abrir o Segundo Cérebro no NotebookLM](https://notebook.google.com/notebook/6fbbf904-aa37-4082-a201-08c196cd9767?authuser=1)
+🔗 **Notebook:** [Abrir o Segundo Cérebro no NotebookLM](https://notebook.google.com/notebook/6fbbf904-aa37-4082-a201-08c196cd9767/preview)
 
 ---
 
